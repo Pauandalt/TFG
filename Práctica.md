@@ -26,8 +26,15 @@ X1 y X2 son funciones lineales que actuan a modo de hiperplanos parábolicos (fo
 
 ![alt text](https://github.com/Pauandalt/TFG/blob/master/paraboloide.png)![alt text](https://github.com/Pauandalt/TFG/blob/master/X1^2.PNG)
 
-**Función X1X2:**
+**Función hiperbólica:**
 
-la función X1X2 es la función resultante de multiplicar dos funciones lineales que da la opción de dividir en 4 regiones diferentes el plano de resultados de manera inmediata.
+La función X1X2 es la función resultante de multiplicar dos funciones lineales formando un conjunto de soluciones hiperbólico que da la opción de dividir en 4 regiones diferentes el plano de resultados de manera inmediata.
 
 ![alt text](https://github.com/Pauandalt/TFG/blob/master/hiperbola.png) ![alt text](https://github.com/Pauandalt/TFG/blob/master/X1X2%20plot.PNG)
+
+**Función senoidal:**
+
+La función sin(X1) divide el plano de soluciones en multiples regiones de manera alterna.
+
+![alt text](https://github.com/Pauandalt/TFG/blob/master/senoidal.jpg) ![alt text](https://github.com/Pauandalt/TFG/blob/master/sinX1.PNG)
+
