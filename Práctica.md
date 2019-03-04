@@ -6,7 +6,10 @@ Para realizar esta práctica se usará el programa ["A Neuronal Network Playgrou
 
 ### Variable de entrada:
 
-Los input de entrada son funciones que emplea el usuario a modo de hiperpano para clasificar los datos en diferentes regiones.
+Los input de entrada son funciones que emplea el usuario a modo de hiperpano para clasificar los datos en diferentes regiones. Las variables de entrada vienen definidas en la parte izquierda del programa: 
+
+![alt text](https://github.com/Pauandalt/TFG/blob/master/Programa.PNG)
+
 
 Ejemplos de input:
 
