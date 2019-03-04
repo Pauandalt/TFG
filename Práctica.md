@@ -25,3 +25,9 @@ X1 y X2 son funciones lineales que actuan a modo de hiperplanos lineales (planos
 X1 y X2 son funciones lineales que actuan a modo de hiperplanos parábolicos (forman paraboloides ortogonales al plano de solucones) y que por tanto crean un circunferencias de separacion de los resultados recta.
 
 ![alt text](https://github.com/Pauandalt/TFG/blob/master/paraboloide.png)![alt text](https://github.com/Pauandalt/TFG/blob/master/X1^2.PNG)
+
+**Función X1X2:**
+
+la función X1X2 es la función resultante de multiplicar dos funciones lineales que da la opción de dividir en 4 regiones diferentes el plano de resultados de manera inmediata.
+
+![alt text](https://github.com/Pauandalt/TFG/blob/master/x1x2.jpg) ![alt text](https://github.com/Pauandalt/TFG/blob/master/X1X2%20plot.PNG)
