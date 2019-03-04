@@ -15,5 +15,5 @@ Ejemplos de input:
 
 Función Lineal:
 
-![alt text](https://github.com/Pauandalt/TFG/blob/master/recta_plano.jpg)
-
+![alt text](https://github.com/Pauandalt/TFG/blob/master/recta_plano.jpg) ![alt text](https://github.com/Pauandalt/TFG/blob/master/X1.PNG
+)
