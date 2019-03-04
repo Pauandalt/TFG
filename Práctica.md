@@ -11,5 +11,5 @@ Los input de entrada son funciones que emplea el usuario a modo de hiperpano par
 Ejemplos de input:
 
 Función Lineal: 
-![alt text](https://github.com/Pauandalt/TFG/recta_plano.jpg "Logo Title Text 1")
+![alt text](https://github.com/Pauandalt/TFG/blob/master/recta_plano.jpg)
 
