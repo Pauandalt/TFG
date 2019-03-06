@@ -2,7 +2,7 @@
 
 Para realizar esta práctica se usará el programa ["A Neuronal Network Playground"](http://playground.tensorflow.org/). 
 
-["A Neuronal Network Playground"](http://playground.tensorflow.org/) es un programa online que emula el comportamiento de una red neuronal ante una serie de variables de entrada, "input variables" y obtiene una representación geométrica de la misma. Este programa tiene como fin acotar una serie de datos en el espacio que les corresponde en el plano. Para ello, el usuario debe hacer uso de los input necesarios así como de las capas de neuronas correspondientes.
+["A Neuronal Network Playground"](http://playground.tensorflow.org/) es un programa online que emula el comportamiento de una red neuronal ante una serie de variables de entrada, "input variables" y obtiene una representación geométrica de la misma. Este programa tiene como fin acotar una serie de datos en el espacio que les corresponde en el plano. Para ello, el usuario debe hacer uso de los input necesarios así como de las capas de neuronas correspondientes para clasificar **los puntos naranjas en las regiones naranjas y los azules en las regiones azules**.
 
 ### Variable de entrada:
 
