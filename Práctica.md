@@ -21,7 +21,7 @@ X1 y X2 son funciones lineales que actúan a modo de hiper-planos lineales (plan
 
 **Función Cuadrática:**
 
-X1 y X2 son funciones lineales que actúan a modo de hiper-planos parabólicos (forman paraboloides ortogonales al plano de soluciones) y que por tanto crean un circunferencias de separación de los resultados recta.
+X1^2 y X2^2 son funciones cuadráticas que actúan a modo de hiper-planos parabólicos (forman paraboloides ortogonales al plano de soluciones) y que por tanto crean un circunferencias de separación de los resultados recta.
 
 ![alt text](https://github.com/Pauandalt/TFG/blob/master/paraboloide.png)![alt text](https://github.com/Pauandalt/TFG/blob/master/X1^2.PNG)
 
