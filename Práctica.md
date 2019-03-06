@@ -33,7 +33,7 @@ La función X1X2 es la función resultante de multiplicar dos funciones lineales
 
 **Función senoidal:**
 
-La función sin(X1) divide el plano de soluciones en multiples regiones de manera alterna.
+La función sin(X1) divide el plano de soluciones en múltiples regiones de manera alterna.
 
 ![alt text](https://github.com/Pauandalt/TFG/blob/master/senoidal.jpg) ![alt text](https://github.com/Pauandalt/TFG/blob/master/sinX1.PNG)
 
