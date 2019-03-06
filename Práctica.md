@@ -15,10 +15,9 @@ Los input de entrada son funciones que emplea el usuario a modo de hiper-plano p
 
 **Función Lineal:**
 
-X1 y X2 son funciones lineales que actuan a modo de hiperplanos lineales (planos ortogonales al plano de conjunto de soluciones) y que por tanto crean un linea de separacion de los resultados recta.
+X1 y X2 son funciones lineales que actúan a modo de hiper-planos lineales (planos ortogonales al plano de conjunto de soluciones) y que por tanto crean un línea de separación de los resultados recta.
 
-![alt text](https://github.com/Pauandalt/TFG/blob/master/recta_plano.jpg) ![alt text](https://github.com/Pauandalt/TFG/blob/master/X1.PNG
-)
+![alt text](https://github.com/Pauandalt/TFG/blob/master/recta_plano.jpg) ![alt text](https://github.com/Pauandalt/TFG/blob/master/X1.PNG)
 
 **Función Cuadrática:**
 
