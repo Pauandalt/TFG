@@ -85,3 +85,23 @@ b) usando un input lineal, ¿Cuántas capas y neuronas usaría?
 
 c) ¿es posible clasificar estos datos usando tan solo funciones de entrada cuadráticas o senoidales?
 
+### Ejercicio 2
+
+Ejercicio 2
+
+Consiga clasificar los datos “Gaussianos” con el mínimo número de neuronas posibles empleando la función de entrada que prefiera.
+
+![alt text](https://github.com/Pauandalt/TFG/blob/master/ejercicio%202.PNG)
+
+a) ¿Cuál es el número mínimo de neuronas?
+
+b) ¿Es posible clasificar estos datos usando tan solo funciones de entrada cuadráticas o senoidales?
+
+c)¿Qué conclusión podría extraer del ejercicio 1 y 2?
+
+
+Ejercicio 3
+
+Empleando todas las funciones de entrada posibles al mismo tiempo y un learning rate de 0.3 clasifique una nube de puntos en forma de espiral. ¿Cuántas capas ha usado? ¿Cuál es el número máximo de capas que se pueden emplear y en cada una de ellas se usan 8 neuronas?
+
+![alt text](https://github.com/Pauandalt/TFG/blob/master/ejercicio%203.PNG)
