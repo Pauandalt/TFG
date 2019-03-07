@@ -100,7 +100,7 @@ b) ¿Es posible clasificar estos datos usando tan solo funciones de entrada cuad
 c)¿Qué conclusión podría extraer del ejercicio 1 y 2?
 
 
-Ejercicio 3
+### Ejercicio 3
 
 Empleando todas las funciones de entrada posibles al mismo tiempo y un learning rate de 0.3 clasifique una nube de puntos en forma de espiral. ¿Cuántas capas ha usado? ¿Cuál es el número máximo de capas que se pueden emplear y en cada una de ellas se usan 8 neuronas?
 
