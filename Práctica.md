@@ -59,11 +59,13 @@ Introduciendo una neurona más en la capa, el plano se podrá doblar de manera q
 
 ![alt text](https://github.com/Pauandalt/TFG/blob/master/ejemplo%203.PNG)
 
-##PRÁCTICA
+## PRÁCTICA
 
-###Ejercicio 0:
+### Ejercicio 0:
 Pruebe a realizar el ejemplo mencionado anteriormente.
+
 ![alt text](https://github.com/Pauandalt/TFG/blob/master/ejercicio%200.PNG)
+
   a)	¿Qué pasaría al añadir más neuronas a la capa??
   b)	¿Qué número de neuronas acota mejor el espacio de datos?
   c)	Añada una capa más a la red neuronal. En la primera capa coloque 5 neuronas y en la segunda tan solo dos. Ejecute el programa. ¿nota alguna diferencia al sumarle una capa de dos neuronas?
