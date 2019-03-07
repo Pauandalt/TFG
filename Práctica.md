@@ -8,7 +8,7 @@ Para realizar esta práctica se usará el programa ["A Neuronal Network Playgrou
 
 Los input de entrada son funciones que emplea el usuario a modo de hiper-plano para clasificar los datos en diferentes regiones. Las variables de entrada vienen definidas en la parte izquierda del programa: 
 
-![alt text](https://github.com/Pauandalt/TFG/blob/master/Programa.PNG)
+![alt text](Programa.PNG)
 
 
 #### Ejemplos de input:
