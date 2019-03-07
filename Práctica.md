@@ -67,7 +67,9 @@ Pruebe a realizar el ejemplo mencionado anteriormente.
 ![alt text](https://github.com/Pauandalt/TFG/blob/master/ejercicio%200.PNG)
 
   a)	¿Qué pasaría al añadir más neuronas a la capa??
+  
   b)	¿Qué número de neuronas acota mejor el espacio de datos?
+  
   c)	Añada una capa más a la red neuronal. En la primera capa coloque 5 neuronas y en la segunda tan solo dos. Ejecute el programa. ¿nota alguna diferencia al sumarle una capa de dos neuronas?
   Ahora intercambien el número de neuronas, establezca 2 en la primera capa y 5 en la segunda, ¿qué podemos observar? 
 
