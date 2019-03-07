@@ -76,7 +76,7 @@ Pruebe a realizar el ejemplo mencionado anteriormente.
 ### Ejercicio 1
 
 Consiga clasificar los datos “Exclusive Or” con el mínimo número de neuronas posibles empleando la función de entrada que prefiera.
-
+![alt text](https://github.com/Pauandalt/TFG/blob/master/ejercicio%201.PNG)
 a) ¿Cuál es el número mínimo de neuronas?
 
 b) usando un input lineal, ¿Cuántas capas y neuronas usaría?
