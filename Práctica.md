@@ -6,7 +6,7 @@ Para realizar esta práctica se usará el programa ["A Neuronal Network Playgrou
 
 ### Variable de entrada:
 
-Los input de entrada son funciones que emplea el usuario a modo de hiper-plano para clasificar los datos en diferentes regiones. Las variables de entrada vienen definidas en la parte izquierda del programa: 
+Los input de entrada son funciones que emplea el usuario para clasificar los datos en diferentes regiones. Las variables de entrada vienen definidas en la parte izquierda del programa: 
 
 ![alt text](Programa.PNG)
 
@@ -15,27 +15,26 @@ Los input de entrada son funciones que emplea el usuario a modo de hiper-plano p
 
 **Función Lineal:**
 
-X1 y X2 son funciones lineales que actúan a modo de hiper-planos lineales (planos ortogonales al plano de conjunto de soluciones) y que por tanto crean un línea de separación de los resultados recta.
+X1 y X2 son funciones que crean un línea recta de separación de los resultados.
 
-![alt text](https://github.com/Pauandalt/TFG/blob/master/recta_plano.jpg) ![alt text](https://github.com/Pauandalt/TFG/blob/master/X1.PNG)
+![alt text](https://github.com/Pauandalt/TFG/blob/master/X1.PNG)
 
 **Función Cuadrática:**
 
-X1^2 y X2^2 son funciones cuadráticas que actúan a modo de hiper-planos parabólicos (forman paraboloides ortogonales al plano de soluciones) y que por tanto crean un circunferencias de separación de los resultados recta.
+X1^2 y X2^2 son funciones cuadráticas que crean un **curbas** de separación de los resultados recta.
 
-![alt text](https://github.com/Pauandalt/TFG/blob/master/paraboloide.png)![alt text](https://github.com/Pauandalt/TFG/blob/master/X1^2.PNG)
+[alt text](https://github.com/Pauandalt/TFG/blob/master/X1^2.PNG)
 
 **Función hiperbólica:**
 
-La función X1X2 es la función resultante de multiplicar dos funciones lineales formando un conjunto de soluciones hiperbólico que da la opción de dividir en 4 regiones diferentes el plano de resultados de manera inmediata.
+La función X1X2 es la función resultante de multiplicar dos funciones lineales formando un conjunto que da la opción de **dividir en 4 regiones diferentes** el plano de resultados de manera inmediata.
 
-![alt text](https://github.com/Pauandalt/TFG/blob/master/hiperbola.png) ![alt text](https://github.com/Pauandalt/TFG/blob/master/X1X2%20plot.PNG)
+![alt text](https://github.com/Pauandalt/TFG/blob/master/X1X2%20plot.PNG)
 
 **Función senoidal:**
 
 La función sin(X1) divide el plano de soluciones en múltiples regiones de manera alterna.
-
-![alt text](https://github.com/Pauandalt/TFG/blob/master/senoidal.jpg) ![alt text](https://github.com/Pauandalt/TFG/blob/master/sinX1.PNG)
+![alt text](https://github.com/Pauandalt/TFG/blob/master/sinX1.PNG)
 
 ### Capas neuronales:
 
@@ -51,7 +50,7 @@ Queremos acotar una serie de puntos formados de manera circular. Dentro del cír
 
 ![alt text](https://github.com/Pauandalt/TFG/blob/master/ejemplo%201.PNG)
 
-Si introducimos una capa de tan solo dos neuronas observamos que la línea recta que acota los puntos toma forma curva. Las neuronas “doblan” el hiperplano recto que forman las variables de entrada.
+Si introducimos una capa de tan solo dos neuronas observamos que la línea recta que acota los puntos toma forma curva. Las neuronas “doblan” la recta que forman las variables de entrada.
 
 ![alt text](https://github.com/Pauandalt/TFG/blob/master/ejemplo%202.PNG)
 
