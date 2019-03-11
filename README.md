@@ -21,7 +21,7 @@ X1 y X2 son funciones que crean un línea recta de separación de los resultados
 
 **Función Cuadrática:**
 
-X1^2 y X2^2 son funciones cuadráticas que crean un **curbas** de separación de los resultados recta.
+X1^2 y X2^2 son funciones cuadráticas que crean un **curvas** de separación de los resultados recta.
 
 ![alt text](https://github.com/Pauandalt/TFG/blob/master/X1^2.PNG)
 
