@@ -34,6 +34,7 @@ La función X1X2 es la función resultante de multiplicar dos funciones lineales
 **Función senoidal:**
 
 La función sin(X1) divide el plano de soluciones en múltiples regiones de manera alterna.
+
 ![alt text](sinX1.PNG)
 
 ### Capas neuronales:
