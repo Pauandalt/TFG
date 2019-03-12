@@ -17,13 +17,13 @@ Los input de entrada son funciones que emplea el usuario para clasificar los dat
 
 X1 y X2 son funciones que crean un línea recta de separación de los resultados.
 
-![alt text](https://github.com/Pauandalt/TFG/blob/master/X1.PNG)
+![alt text](X1.PNG)
 
 **Función Cuadrática:**
 
 X1^2 y X2^2 son funciones cuadráticas que crean un **curvas** de separación de los resultados recta.
 
-![alt text](https://github.com/Pauandalt/TFG/blob/master/X1^2.PNG)
+![alt text](X1^2.PNG)
 
 **Función hiperbólica:**
 
