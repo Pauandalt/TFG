@@ -1,8 +1,8 @@
 # PRÁCTICA DE REDES NEURONALES
 
-Para realizar esta práctica se usará el programa ["A Neuronal Network Playground"](http://playground.tensorflow.org/). 
+Para realizar esta práctica se usará la página ["A Neuronal Network Playground"](http://playground.tensorflow.org/). 
 
-["A Neuronal Network Playground"](http://playground.tensorflow.org/) es un programa online que emula el comportamiento de una red neuronal ante una serie de variables de entrada, "input variables" y obtiene una representación geométrica de la misma. Este programa tiene como fin acotar una serie de datos en el espacio que les corresponde en el plano. Para ello, el usuario debe hacer uso de los input necesarios así como de las capas de neuronas correspondientes para clasificar **los puntos naranjas en las regiones naranjas y los azules en las regiones azules**.
+["A Neuronal Network Playground"](http://playground.tensorflow.org/) es una página web que emula el comportamiento de una red neuronal ante una serie de variables de entrada, "input variables" y muestra visualmente su estado. Este programa tiene como fin acotar una serie de datos en el espacio que les corresponde en el plano. Para ello, el usuario debe hacer uso de los input necesarios así como de las capas de neuronas correspondientes para clasificar **los puntos naranjas en las regiones naranjas y los azules en las regiones azules**.
 
 ### Variable de entrada:
 
@@ -13,27 +13,27 @@ Los input de entrada son funciones que emplea el usuario para clasificar los dat
 
 #### Ejemplos de input:
 
-**Función Lineal:**
+**Función X1 y X2:**
 
-X1 y X2 son funciones que crean un línea recta de separación de los resultados.
+X1 y X2 son funciones que crean un **línea recta** de separación de los resultados.
 
 ![alt text](X1.PNG)
 
-**Función Cuadrática:**
+**Función X1^2 y X2^2:**
 
-X1^2 y X2^2 son funciones cuadráticas que crean un **curvas** de separación de los resultados recta.
+X1^2 y X2^2 son funciones cuadráticas que crean **curvas** de separación de los resultados.
 
 ![alt text](X1^2.PNG)
 
-**Función hiperbólica:**
+**Función X1X2:**
 
 La función X1X2 es la función resultante de multiplicar dos funciones lineales formando un conjunto que da la opción de **dividir en 4 regiones diferentes** el plano de resultados de manera inmediata.
 
 ![alt text](X1X2%20plot.PNG)
 
-**Función senoidal:**
+**Función Sin (X1) y Sin(X2):**
 
-La función sin(X1) divide el plano de soluciones en múltiples regiones de manera alterna.
+La función sin(X1) divide el plano de soluciones en **múltiples regiones de manera alterna**.
 
   ![alt text](sinX1.PNG)
 
@@ -81,9 +81,9 @@ Consiga clasificar los datos “Exclusive Or” con el mínimo número de neuron
 
 a) ¿Cuál es el número mínimo de neuronas?
 
-b) usando un input lineal, ¿Cuántas capas y neuronas usaría?
+b) usando como input X1 y X2, ¿Cuántas capas y neuronas usaría?
 
-c) ¿es posible clasificar estos datos usando tan solo funciones de entrada cuadráticas o senoidales?
+c) ¿es posible clasificar estos datos usando tan solo funciones de entrada X1^2, X2^2, sin (X1) y sin(X2)?
 
 ### Ejercicio 2
 
@@ -95,13 +95,13 @@ Consiga clasificar los datos “Gaussianos” con el mínimo número de neuronas
 
 a) ¿Cuál es el número mínimo de neuronas?
 
-b) ¿Es posible clasificar estos datos usando tan solo funciones de entrada cuadráticas o senoidales?
+b) ¿Es posible clasificar estos datos usando tan solo como funciones de entrada X1^2, X2^2, sin (X1) y sin(X2)?
 
 c)¿Qué conclusión podría extraer del ejercicio 1 y 2?
 
 
 ### Ejercicio 3
 
-Empleando todas las funciones de entrada posibles al mismo tiempo y un learning rate de 0.3 clasifique una nube de puntos en forma de espiral. ¿Cuántas capas ha usado? ¿Cuál es el número máximo de capas que se pueden emplear y en cada una de ellas se usan 8 neuronas?
+Empleando todas las funciones de entrada posibles al mismo tiempo clasifique una nube de puntos en forma de espiral. ¿Cuántas capas ha usado? ¿Cuál es el número máximo de capas que se pueden emplear y en cada una de ellas se usan 8 neuronas?
 
 ![alt text](ejercicio%203.PNG)
