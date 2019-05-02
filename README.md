@@ -4,7 +4,7 @@
 
 ### Guión de la clase
 ### Plantilla Presentación Power Point 
-### ["Práctica procesador c5i"] (https://pauandalt.github.io/Practica_Redes_Neuronales/)
+### [" Práctica procesador c5i "] (https://pauandalt.github.io/Practica_Redes_Neuronales/)
 
 
 
