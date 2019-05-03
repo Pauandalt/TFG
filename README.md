@@ -3,30 +3,30 @@
 ## Clase1: La base de la era digital: el Ordenador
 
 ### [Guión de la clase 1](https://pauandalt.github.io/Guion_Clase_1/)
-### [Plantilla Presentación Power Point PDF](https://github.com/Pauandalt/Presntacion_Clase1_PDF/blob/master/Pantilla%20de%20la%20presentaci%C3%B3n%20clase%201.pdf), [Download Power Point](https://github.com/Pauandalt/Presntaci-n_PP_Clase_1/blob/master/plantilla%20de%20la%20presentaci%C3%B3n.pptx)
+### [Plantilla Presentación PDF](https://github.com/Pauandalt/Presntacion_Clase1_PDF/blob/master/Pantilla%20de%20la%20presentaci%C3%B3n%20clase%201.pdf), [Download Power Point](https://github.com/Pauandalt/Presntaci-n_PP_Clase_1/blob/master/plantilla%20de%20la%20presentaci%C3%B3n.pptx)
 ### [Práctica procesador c5i](https://pauandalt.github.io/TFG-Practica-c5i/)
 
 ## Clase2: Internet y plataformas
 
 ### Guión de la clase 2
-### Plantilla Presentación Power Point 
+### Plantilla Presentación
 ### Práctica
 
 ## Clase3: Big Data, el Internet de las Cosas (IoT)
 
 ### Guión de la clase 3
-### Plantilla Presentación Power Point 
+### Plantilla Presentación 
 ### Práctica
 
 ## Clase 4: La Nube e Introducción a la IA
 
 ### Guión de la clase 4
-### Plantilla Presentación Power Point 
+### Plantilla Presentación
 ### Práctica
 
 
 ## Clase 5: IA: enternder qué es y lo que supondrá para el mercado laboral 
 
 ### Guión de la clase 5
-### Plantilla Presentación Power Point 
+### Plantilla Presentación 
 ### [Práctica en Redes Neuronales](https://pauandalt.github.io/Practica_Redes_Neuronales/)
