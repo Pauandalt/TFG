@@ -29,4 +29,4 @@
 
 ### Guión de la clase 5
 ### Plantilla Presentación Power Point 
-### [Práctica](https://pauandalt.github.io/Practica_Redes_Neuronales/)
+### [Práctica en Redes Neuronales](https://pauandalt.github.io/Practica_Redes_Neuronales/)
