@@ -3,8 +3,8 @@
 ## Clase1: La base de la era digital: el Ordenador
 
 ### [Guión de la clase 1](https://pauandalt.github.io/Guion_Clase_1/)
-### Plantilla Presentación Power Point 
-### [Práctica procesador c5i]( https://pauandalt.github.io/TFG-Practica-c5i/)
+### Plantilla Presentación Power Point [PDF](https://github.com/Pauandalt/Presntacion_Clase1_PDF/blob/master/Pantilla%20de%20la%20presentaci%C3%B3n%20clase%201.pdf)[Download](https://github.com/Pauandalt/Presntaci-n_PP_Clase_1/blob/master/plantilla%20de%20la%20presentaci%C3%B3n.pptx)
+### [Práctica procesador c5i](https://pauandalt.github.io/TFG-Practica-c5i/)
 
 ## Clase2: Internet y plataformas
 
