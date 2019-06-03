@@ -16,7 +16,7 @@
 
 ### [Guión](https://pauandalt.github.io/IoT/)
 ### Plantilla Presentación 
-### Práctica
+### [Práctica](https://pauandalt.github.io/Practica_IoT/.)
 
 ## La Nube 
 
