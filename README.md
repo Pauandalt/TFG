@@ -14,7 +14,7 @@
 
 ## Big Data, el Internet de las Cosas (IoT)
 
-### Guión
+### [Guión](https://pauandalt.github.io/IoT/)
 ### Plantilla Presentación 
 ### Práctica
 
