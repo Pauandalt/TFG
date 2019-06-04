@@ -6,11 +6,15 @@
 ### [Plantilla Presentación PDF](https://github.com/Pauandalt/Presntacion_Clase1_PDF/blob/master/Pantilla%20de%20la%20presentaci%C3%B3n%20clase%201.pdf), [Download Power Point](https://github.com/Pauandalt/Presntaci-n_PP_Clase_1/blob/master/plantilla%20de%20la%20presentaci%C3%B3n.pptx)
 ### [Práctica procesador c5i](https://pauandalt.github.io/TFG-Practica-c5i/)
 
+***
+
 ## Internet y sus plataformas
 
 ### Guión
 ### Plantilla Presentación
 ### Práctica
+
+***
 
 ## Big Data, el Internet de las Cosas (IoT)
 
@@ -19,12 +23,15 @@
 ### [Práctica 1](https://pauandalt.github.io/Practica_IoT/.)
 ### [Práctica 2](https://pauandalt.github.io/Practica_IoT2/.)
 
+***
+
 ## La Nube 
 
 ### Guión
 ### Plantilla Presentación
 ### Práctica
 
+***
 
 ## IA: enternder qué es y lo que supondrá para el mercado laboral 
 
