@@ -14,20 +14,18 @@
 
 ## Big Data, el Internet de las Cosas (IoT)
 
-| ### [Guión](https://pauandalt.github.io/IoT/) | Plantilla Presentación| [Práctica 1](https://pauandalt.github.io/Practica_IoT/.) , [Práctica 2](https://pauandalt.github.io/Practica_IoT2/.) |
+| [Guión](https://pauandalt.github.io/IoT/) | Plantilla Presentación| [Práctica 1](https://pauandalt.github.io/Practica_IoT/.) , [Práctica 2](https://pauandalt.github.io/Practica_IoT2/.) |
 | :-------------: |:-------------:| :-------------: |
 
 
 ## La Nube 
 
-### [Guión](https://pauandalt.github.io/La_Nube/)
-### Plantilla Presentación
-### Práctica
+| [Guión](https://pauandalt.github.io/La_Nube/) | Plantilla Presentación|  Práctica |
+| :-------------: |:-------------:| :-------------: |
 
 ***
 
 ## IA: enternder qué es y lo que supondrá para el mercado laboral 
 
-### Guión
-### Plantilla Presentación 
-### [Práctica en Redes Neuronales](https://pauandalt.github.io/Practica_Redes_Neuronales/)
+| [Guión]| Plantilla Presentación|  [Práctica en Redes Neuronales](https://pauandalt.github.io/Practica_Redes_Neuronales/) |
+| :-------------: |:-------------:| :-------------: |
