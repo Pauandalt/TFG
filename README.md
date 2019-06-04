@@ -23,8 +23,6 @@
 | [Guión](https://pauandalt.github.io/La_Nube/) | Plantilla Presentación|  Práctica |
 | :-------------: |:-------------:| :-------------: |
 
-***
-
 ## IA: enternder qué es y lo que supondrá para el mercado laboral 
 
 | [Guión]| Plantilla Presentación|  [Práctica en Redes Neuronales](https://pauandalt.github.io/Practica_Redes_Neuronales/) |
