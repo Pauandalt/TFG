@@ -1,7 +1,7 @@
 # Contenido del curso sobre la ERA DIGITAL
 
-## La base de la era digital: el Ordenador
-
+| La base de la era digital: el Ordenador |
+| ------------- |
 | [Guión](https://pauandalt.github.io/Guion_Clase_1/) | [Plantilla Presentación PDF](https://github.com/Pauandalt/Presntacion_Clase1_PDF/blob/master/Pantilla%20de%20la%20presentaci%C3%B3n%20clase%201.pdf), [Download Power Point](https://github.com/Pauandalt/Presntaci-n_PP_Clase_1/blob/master/plantilla%20de%20la%20presentaci%C3%B3n.pptx) | [Práctica procesador c5i](https://pauandalt.github.io/TFG-Practica-c5i/) |
 | ------------- |:-------------:| -----:|
 
