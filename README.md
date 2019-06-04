@@ -10,7 +10,7 @@
 
 ## Internet y sus plataformas
 
-### Guión
+### [Guión](https://pauandalt.github.io/Internet_y_sus_plataformas/)
 ### Plantilla Presentación
 ### Práctica
 
