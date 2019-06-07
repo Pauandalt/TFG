@@ -7,21 +7,16 @@
 ## Internet y sus plataformas
 
 | [Guión](https://pauandalt.github.io/Internet_y_sus_plataformas/) | Plantilla Presentación| Práctica |
-| :-------------: | :-------------: | :-------------: |
-
 
 ## Big Data, el Internet de las Cosas (IoT)
 
 | [Guión](https://pauandalt.github.io/IoT/) | Plantilla Presentación| [Práctica 1](https://pauandalt.github.io/Practica_IoT/.) , [Práctica 2](https://pauandalt.github.io/Practica_IoT2/.) |
-| :-------------: | :-------------: | :-------------: |
 
 
 ## La Nube 
 
 | [Guión](https://pauandalt.github.io/La_Nube/) | Plantilla Presentación|  Práctica |
-| :-------------: | :-------------: | :-------------: |
 
 ## IA: enternder qué es y lo que supondrá para el mercado laboral 
 
 | [Guión](https://pauandalt.github.io/Inteligencia_Artificial/)| Plantilla Presentación|  [Práctica en Redes Neuronales](https://pauandalt.github.io/Practica_Redes_Neuronales/) |
-| :-------------: | :-------------: | :-------------: |
