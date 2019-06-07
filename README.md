@@ -19,4 +19,4 @@
 
 ## IA: enternder qué es y lo que supondrá para el mercado laboral 
 
-| [Guión](https://pauandalt.github.io/Inteligencia_Artificial/)| Plantilla Presentación|  [Práctica en Redes Neuronales](https://pauandalt.github.io/Practica_Redes_Neuronales/) |
+| [Guión](https://pauandalt.github.io/Inteligencia_Artificial/) | Plantilla Presentación|  [Práctica en Redes Neuronales](https://pauandalt.github.io/Practica_Redes_Neuronales/) |
