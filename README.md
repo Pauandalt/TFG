@@ -6,7 +6,7 @@
 
 ## Internet y sus plataformas
 
-| [Guión](https://pauandalt.github.io/Internet_y_sus_plataformas/) | Plantilla Presentación | Práctica |
+| [Guión](https://pauandalt.github.io/Internet_y_sus_plataformas/) | Plantilla Presentación | [Práctica]( https://pauandalt.github.io/Practica_HTML/) |
 
 ## Big Data, el Internet de las Cosas (IoT)
 
