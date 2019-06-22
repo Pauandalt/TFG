@@ -15,7 +15,7 @@
 
 ## La Nube 
 
-| [Guión](https://pauandalt.github.io/La_Nube/) | Plantilla Presentación |  Práctica |
+| [Guión](https://pauandalt.github.io/La_Nube/) | Plantilla Presentación |  [Práctica](https://pauandalt.github.io/Practica_De_La_Nube/) |
 
 ## IA: enternder qué es y lo que supondrá para el mercado laboral 
 
