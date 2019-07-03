@@ -10,7 +10,7 @@
 
 ## Big Data, el Internet de las Cosas (IoT)
 
-| [Guión](https://pauandalt.github.io/IoT/) | Plantilla Presentación | [Práctica 1](https://pauandalt.github.io/Practica_IoT/.) , [Práctica 2](https://pauandalt.github.io/Practica_IoT2/.) |
+| [Guión](https://pauandalt.github.io/IoT/) | [Plantilla Presentación](https://pauandalt.github.io/r/r?https://pauandalt.github.io/Presentacion_IoT/) | [Práctica 1](https://pauandalt.github.io/Practica_IoT/.) , [Práctica 2](https://pauandalt.github.io/Practica_IoT2/.) |
 
 
 ## La Nube 
