@@ -6,7 +6,7 @@
 
 ## Internet y sus plataformas
 
-| [Guión](https://pauandalt.github.io/Internet_y_sus_plataformas/) | Plantilla Presentación | [Práctica programar html]( https://pauandalt.github.io/Practica_HTML/) (nivel medio) , [Práctica comprender html](https://pauandalt.github.io/Comprender_HTML/.) (nivel bajo)|
+| [Guión](https://pauandalt.github.io/Internet_y_sus_plataformas/) | [Plantilla Presentación](https://pauandalt.github.io/r/r?https://pauandalt.github.io/Presentacion_internet/) | [Práctica programar html]( https://pauandalt.github.io/Practica_HTML/) (nivel medio) , [Práctica comprender html](https://pauandalt.github.io/Comprender_HTML/.) (nivel bajo)|
 
 ## Big Data, el Internet de las Cosas (IoT)
 
